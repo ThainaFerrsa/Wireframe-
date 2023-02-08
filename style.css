@@ -1,0 +1,72 @@
+body {
+    font-family: 'Playfair Display', serif;
+  }
+h2
+
+  h3 {
+    font-family: 'Assistant', sans-serif;
+  }
+
+  /* Section Title */
+
+  #title {
+    font-family: 'Playfair Display', serif;
+    background-color: #F5EDE6
+
+   
+  }
+  
+    
+      
+
+
+  /* Section Products  */
+
+  #products {
+    text-align: center;
+    padding: 5% 15%;
+    background-color: #F5EDE6;
+    font-family: 'Playfair Display', serif; 
+  }
+
+  .product-item {
+    padding: 5% ;
+  }
+
+  .product-image {
+    width: 100%;
+    border-radius: 100%;
+    margin: 20px;
+    
+  }
+  
+
+  /* Section About */
+
+  #sobre {
+    background-color: #cdbfee5e;
+    font-family: 'Playfair Display', serif; 
+    padding: 5% 10%;
+    text-align: center;
+  }
+
+  .producion-image {
+    width: 100%;
+    margin: 20px;
+  }
+
+  /* Section Contact */
+
+  #contato {
+    background-color: #F5EDE6;
+    padding: 5% 15%;
+  }
+
+  /* Section Footer */
+
+  #footer {
+    background-color: #F5EDE6;
+    text-align: center;
+  }
+  
+  
